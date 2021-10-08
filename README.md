@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 List of projects 2021
-https://tempshifts.com/
-https://galaxyof.art/
-https://stalwartinfo.com/
+<a href="https://tempshifts.com/">Tempshifts</a>
+<a href="https://galaxyof.art/">Galaxy of Art</a>
+<a href="https://stalwartinfo.com/">Stalwartinfo</a>
